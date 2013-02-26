@@ -75,7 +75,7 @@ _slimstache_ is the also popular combination of `slim` and `mustache`. Works jus
 
 ## Configuration
 
-You can configure options using either an intializer or with a YAML file (`config/hogan_assets.yml`). See `lib/hogan_assets/config.rb` for details.
+You can configure options using either an initializer or with a YAML file (`config/hogan_assets.yml`). See `lib/hogan_assets/config.rb` for details.
 
 ### Lambda Support
 
